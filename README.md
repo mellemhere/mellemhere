@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hello There! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/emoji.gif" width="30px"></h2>
 
-<!--
-**mellemhere/mellemhere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/gabriel-mellem-192257132/">
+  <img align="left" alt="Mellemhere Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/mellemhere">
+  <img align="left" alt="Mellemhere Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://instagram.com/mellemhere">
+  <img align="left" alt="Mellemhere instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
-Here are some ideas to get you started:
+<br />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I am Gabriel Mellem
+- ☁️ An IOT enthusiast.
+- 📚 A Computer Engineering Student. 
+- 👨‍💻 Currently working as a Full-stack Developer 
