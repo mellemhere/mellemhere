@@ -16,4 +16,4 @@
 ### I am Gabriel Mellem
 - ☁️ An IOT enthusiast.
 - 📚 A Computer Engineering Student. 
-- 👨‍💻 Currently working as a Full-stack Developer 
+- 👨‍💻 Currently working as a Full-stack Developer.
